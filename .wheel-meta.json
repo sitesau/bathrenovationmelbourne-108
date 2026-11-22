@@ -1,0 +1,22 @@
+{
+  "wheel_id": 950,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-108",
+  "project": "bathroom-renovations-melbourne-maintenance-d705287c7d85648ae1fa",
+  "parent_t1_ref": "bathrenovationmelbourne-153",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne maintenance",
+  "intended_url": "https://aumedia.neocities.org/bathroom-renovations-melbourne-maintenance-d705287c7d85648ae1fa/",
+  "tier": "T2",
+  "writeback_nonce": "d67ee4ea38e83aa6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathrenovationmelbourne-153/",
+      "anchor": "Bathroom Renovations Melbourne Council and Approvals: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
